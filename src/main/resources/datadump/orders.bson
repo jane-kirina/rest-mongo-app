@@ -1,0 +1,75 @@
+[
+    {
+       "_id": "8fvb1zosm",
+       "totalPrice":
+            {
+                "$sum" : "products.price"
+            },
+       "date": ISODate("2010-09-24"),
+       "products" : [
+            {
+                "$ref" : "products",
+                "$id" : "jbp1zr465"
+            },
+            {
+                "$ref" : "products",
+                "$id" : "ujy4fjpgq"
+            }
+           ],
+       "customer":
+            {
+                "$ref" : "customers",
+                "$id" : "xh4wyjm0l"
+            }
+    },
+    {
+       "_id": "h6j8m7pax",
+       "totalPrice":
+            {
+                "$sum" : "products.price"
+            },
+       "date": ISODate("2010-10-1"),
+       "products" : [
+            {
+                "$ref" : "products",
+                "$id" : "4hepojf6r"
+            },
+            {
+                "$ref" : "products",
+                "$id" : "i6d7hjanl"
+            }
+           ],
+       "customer":
+            {
+                "$ref" : "customers",
+                "$id" : "rqn17o9tr"
+            }
+    },
+    {
+       "_id": "3pphjp8o9",
+       "totalPrice":
+            {
+                "$sum" : "products.price"
+            },
+       "date": ISODate("2011-01-03"),
+       "products" : [
+            {
+                "$ref" : "products",
+                "$id" : "wgqn3nv9l"
+            },
+            {
+                "$ref" : "products",
+                "$id" : "a1mssbif9"
+            },
+            {
+                "$ref" : "products",
+                "$id" : "43l3ij18o"
+            }
+           ],
+       "customer":
+            {
+                "$ref" : "customers",
+                "$id" : "icuscyrcb"
+            }
+    }
+]

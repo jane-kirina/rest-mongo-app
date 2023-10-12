@@ -1,0 +1,58 @@
+[
+    {
+      "_id": "xh4wyjm0l",
+      "firstName": "Luis",
+      "lastName": "Nicholson",
+      "birthDate": new Date("<1998-02-14>"),
+      "email": "pappp@optonline.net",
+      "pass": "k387hnsdf"
+    },
+    {
+      "_id": "lhk38jqnb",
+      "firstName": "Viola",
+      "lastName": "Mcbride",
+      "birthDate": new Date("<1988-12-01>"),
+      "email": "ovprit@verizon.net",
+      "pass": "k387hnsdf"
+    },
+    {
+      "_id": "762ocynlu",
+      "firstName": "Delia",
+      "lastName": "Shah",
+      "birthDate": new Date("<2001-03-20>"),
+      "email": "monkeydo@aol.com",
+      "pass": "k387hnsdf"
+    },
+    {
+      "_id": "rqn17o9tr",
+      "firstName": "Ned",
+      "lastName": "Tucker",
+      "birthDate": new Date("<1999-06-03>"),
+      "email": "koudas@live.com",
+      "pass": "k387hnsdf"
+    },
+    {
+      "_id": "y8wsoyrtg",
+      "firstName": "Todd",
+      "lastName": "Mccormick",
+      "birthDate": new Date("<1980-05-27>"),
+      "email": "euice@gmail.com",
+      "pass": "k387hnsdf"
+    },
+    {
+      "_id": "j57j02qcf",
+      "firstName": "Burl",
+      "lastName": "Mccall",
+      "birthDate": new Date("<2000-01-01>"),
+      "email": "starstuff@yahoo.com",
+      "pass": "k387hnsdf"
+    },
+    {
+      "_id": "icuscyrcb",
+      "firstName": "Sonya",
+      "lastName": "Bolton",
+      "birthDate": new Date("<1960-10-21>"),
+      "email": "pajas@icloud.com",
+      "pass": "k387hnsdf"
+    }
+]

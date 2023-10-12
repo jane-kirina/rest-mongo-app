@@ -1,0 +1,107 @@
+[
+  {
+    "_id": "xrllstgy7",
+    "name": "The History of Graphic Design",
+    "category": "Book",
+    "price": 1170.00
+  },
+  {
+    "_id": "enj4ygy3t",
+    "name": "Norwegian Wood",
+    "category": "Book",
+    "price": 327.00
+  },
+  {
+    "_id": "ujy4fjpgq",
+    "name": "The Little Prince",
+    "category": "Book",
+    "price": 172.50
+  },
+  {
+    "_id": "xp1fd3711",
+    "name": "The Godfather",
+    "category": "Book",
+    "price": 409.20
+  }
+]
+
+[
+  {
+    "_id": "kyuvb80t6",
+    "name": "Apple MacBook Air",
+    "category": "Laptop",
+    "price": 62499.00
+  },
+  {
+    "_id": "43l3ij18o",
+    "name": "Lenovo IdeaPad 1",
+    "category": "Laptop",
+    "price": 11999.77
+  },
+  {
+    "_id": "a1mssbif9",
+    "name": "HP Laptop 15s",
+    "category": "Laptop",
+    "price": 17423.48
+  },
+  {
+    "_id": "e9xsykbtp",
+    "name": "Acer Aspire 3",
+    "category": "Laptop",
+    "price": 25164.11
+  }
+]
+
+[
+  {
+    "_id": "wgqn3nv9l",
+    "name": "CrossBike Storm",
+    "category": "Bicycle",
+    "price": 8600.00
+  },
+  {
+    "_id": "455t5w5y9",
+    "name": "Corrado Piemont",
+    "category": "Bicycle",
+    "price": 13659.34
+  },
+  {
+    "_id": "karc75wn3",
+    "name": "Dorozhnik Aquamarine",
+    "category": "Bicycle",
+    "price": 7037.48
+  },
+  {
+    "_id": "l83pa3nnp",
+    "name": "Discovery Rocket",
+    "category": "Bicycle",
+    "price": 9261.52
+  }
+]
+
+[
+  {
+    "_id": "jbp1zr465",
+    "name": "Hator Sport Light",
+    "category": "Chair",
+    "price": 6932.06
+  },
+  {
+    "_id": "9frekw2y6",
+    "name": "Gaming Bushido II Dark",
+    "category": "Chair",
+    "price": 9499.41
+  },
+  {
+    "_id": "4hepojf6r",
+    "name": "GT RACER",
+    "category": "Chair",
+    "price": 5899.00
+  },
+  {
+    "_id": "i6d7hjanl",
+    "name": "Cougar Armor Elite",
+    "category": "Chair",
+    "price": 7934.84
+  }
+]
